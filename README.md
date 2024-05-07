@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajanravi006
 - 👀 I’m interested in Software Development, Blockchain, Entrepreneurship ...
-- 🌱 I’m currently learning Backend technologies
-- 💞️ I’m looking to collaborate on a startup idea
+- 🌱 I’m currently working in Backend technologies
+- 💞️ I’m looking to collaborate..
 - 📫 You can reach me on "rajanravi006@gmail.com"
 
 <!---
